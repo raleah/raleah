@@ -33,4 +33,4 @@ Learning:
 
 ---
 
-[gitcoin](https://gitcoin.co/rhxm) | [twitter](https://twitter.com/raleahx)
+[gitcoin](https://gitcoin.co/raleah) | [twitter](https://twitter.com/raleahx)
