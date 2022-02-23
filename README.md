@@ -22,12 +22,6 @@ Here are some ideas to get you started:
 
 ### :herb::strawberry: Currently learning new things
 
-Familiar with:
-> html, css, JavaScript, node.js, react, python (+data science libraries (ie numpy, pandas, matplotlib) & web scraping ), Java, sql & database design. Familiar with testing methods as well.
-
-Learning:
-> solidity
-
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raleah&layout=compact?theme=dracula)](https://github.com/raleah/github-readme-stats)
 
