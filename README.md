@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 ### :herb::strawberry: Currently learning new things
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raleah&layout=compact?theme=dracula)](https://github.com/raleah/github-readme-stats)
+
 
 ---
 
